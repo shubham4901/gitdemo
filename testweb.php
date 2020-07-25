@@ -8,5 +8,8 @@ $file2 = basename($path, ".php");
 echo $file1 . "\n"; 
   
 //Show filename without file extension 
-echo $file2; 
+echo $file2;  "\n"; 
+
+//Show filename without file extension 
+echo $file2;
 ?> 
