@@ -6,3 +6,4 @@ git status
 git push origin master
 git clone paste url
 checkout -b - current branch to copy 
+change
